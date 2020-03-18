@@ -1,0 +1,13 @@
+C:\Users\victor.flores\Desktop\vitor\CodeNation\CodeNation\bin\Debug\netcoreapp3.1\CodeNation.exe
+C:\Users\victor.flores\Desktop\vitor\CodeNation\CodeNation\obj\Debug\netcoreapp3.1\CodeNation.csprojAssemblyReference.cache
+C:\Users\victor.flores\Desktop\vitor\CodeNation\CodeNation\obj\Debug\netcoreapp3.1\CodeNation.AssemblyInfoInputs.cache
+C:\Users\victor.flores\Desktop\vitor\CodeNation\CodeNation\obj\Debug\netcoreapp3.1\CodeNation.AssemblyInfo.cs
+C:\Users\victor.flores\Desktop\vitor\CodeNation\CodeNation\bin\Debug\netcoreapp3.1\CodeNation.deps.json
+C:\Users\victor.flores\Desktop\vitor\CodeNation\CodeNation\bin\Debug\netcoreapp3.1\CodeNation.runtimeconfig.json
+C:\Users\victor.flores\Desktop\vitor\CodeNation\CodeNation\bin\Debug\netcoreapp3.1\CodeNation.runtimeconfig.dev.json
+C:\Users\victor.flores\Desktop\vitor\CodeNation\CodeNation\bin\Debug\netcoreapp3.1\CodeNation.dll
+C:\Users\victor.flores\Desktop\vitor\CodeNation\CodeNation\bin\Debug\netcoreapp3.1\CodeNation.pdb
+C:\Users\victor.flores\Desktop\vitor\CodeNation\CodeNation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\victor.flores\Desktop\vitor\CodeNation\CodeNation\obj\Debug\netcoreapp3.1\CodeNation.csproj.CopyComplete
+C:\Users\victor.flores\Desktop\vitor\CodeNation\CodeNation\obj\Debug\netcoreapp3.1\CodeNation.dll
+C:\Users\victor.flores\Desktop\vitor\CodeNation\CodeNation\obj\Debug\netcoreapp3.1\CodeNation.pdb
